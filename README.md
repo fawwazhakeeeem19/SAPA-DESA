@@ -11,13 +11,10 @@
 ## Cara Menjalankan
 
 ```bash
-# 1. Install dependencies
 npm install
 
-# 2. Jalankan dev server
 npm run dev
 
-# 3. Build production
 npm run build
 ```
 
